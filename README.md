@@ -21,5 +21,8 @@ A simple python script to find and compare WhatsApp chat entropy.
 ## How to interpret?
   In the context of Information Theory Entropy is a measure of Information contained in a message. Higher entropy indicates higher           information. The results of this project can give you an idea about how much information you or your friend provide while chatting.         However this is an oversimplified model so it may not produce the correct result in complicated situations (e.g. use of different       laguages, too much use of different words with same meaning etc.) 
   
+## My Results
+![](https://github.com/Suji04/Chat_Entropy_Analysis/blob/master/download.png)
+  
 ## Help
 If you have any new idea about this please contribute by pull request or contact me. If you liked this repo star it!
