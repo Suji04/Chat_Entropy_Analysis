@@ -10,12 +10,12 @@ A simple python script to find and compare WhatsApp chat entropy.
   
   2) Export your whatsapp chats(without media) as a .txt file. You can find the export option in whatsapp(top-left corner --> more              options).
   
-  3) Save the .txt files in the same directory as that of the nootbook.
+  3) Save the .txt files in the same directory as that of the notebook.
   
   4) Rename the files as 'friend A.txt', 'friend B.txt', 'friend C.txt'.
   
-  5) Put your username in the code at the right place(please see the nootbook).
-  
+  5) Put your username in the code at the right place(please see the notebook).
+ 
   6) Now just see the results and share with your friends!
   
 ## How to interpret?
